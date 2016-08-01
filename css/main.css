@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Sahitya);
+.bloque{
+	height: 250px;
+	width: 170px;
+	border-right: 1px solid #EEEEEE;
+	float: left;
+	margin: 10px;
+	text-align: center;
+	font-size: 12px;
+	background-color: #FBFBFB;
+	color: #7B7B7B;
+	font-family: "Roboto";
+}
+
+.icon{
+	font-size: 40px;
+	margin-top: 30px;
+	display: inline-block; 
+}
+
+.titulo{
+	font-size: 17px;
+	margin-top:10px;
+}
+
+.cursive{
+	font-size: 10px;
+}
+
+.txt{
+	margin: 4px 5px 0px 5px;
+}
+div:hover {
+	transition: all 0.5s ease;
+	height: 280px;
+	width: 200px;
+	color:#A8B9DA;
+	border-right: 1px solid #ECECEC;
+	font-size: 90%;
+ 	margin-top: 10px;
+ 	font-family: "Sahitya";
+}
